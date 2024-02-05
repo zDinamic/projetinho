@@ -1,1 +1,1 @@
-print('Qual vai ser o primeiro projeto hein?')
+print('Qual vai ser o primeiro projeto hein? foda que não temos conhecimento de nada.')
