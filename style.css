@@ -7,7 +7,7 @@ body{
 }
 
 .apresentacao {
-    padding: 15% 15%;
+    padding: 8% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -34,8 +34,6 @@ body{
 
 footer{
     text-align:center;
-    
-    margin-top: 500px;
 }
 
 .apresentacao__links {
@@ -46,10 +44,10 @@ footer{
     gap: 32px;
 }
 
-.apresentacao__links__subtitulo{
-    font-family: 'Krona One', sans-serif;
+.apresentacao__links__subtitulo {
     font-weight: 400;
-    font-size: 24px;
+    font-size: 40px;
+    font-family: 'Krona One', sans-serif;   
 }
 
 .apresentacao__links__link {
@@ -86,5 +84,5 @@ footer{
 
 .span {
     background-color:#9aecff;
-    border: 10px groove black
+    border: 10px double black
 }
