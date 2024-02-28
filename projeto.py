@@ -1,6 +1,0 @@
-print('Teste')
-print('Segundo teste')
-print('Terceiro teste')
-print('Quarto teste')
-print('Quinto e ultimo teste')
-print('GG wp!')
