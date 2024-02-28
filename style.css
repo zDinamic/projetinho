@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Workbench&display=swap');
+body {
+    background-color: #982323 ;
+}
+
+.nome {
+
+}
+
+.nome__ivo__barbosa {
+    position: absolute;
+    width: 233.24px;
+    height: 45.54px;
+    left: 60.64px;
+    top: 44px;
+    
+    font-family: 'Algerian';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 46px;
+    display: flex;
+    align-items: flex-end;
+    
+    color: #FFFFFF;
+    
+    
+}
+
+.nome__developer {
+    position: absolute;
+    width: 141px;
+    height: 37px;
+    left: 145px;
+    top: 60px;
+    
+    font-family: 'Magneto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 24px;
+    display: flex;
+    align-items: flex-end;
+    
+    color:black;
+    
+   
+}
+
+
+.chapeu__luffy {
+    position: absolute;
+    width: 42.4px;
+    height: 20.68px;
+    left: 252.94px;
+    top: 63px;
+
+    background: url(Luffys-Straw-Hat-in-One-Piece.png);
+    transform: rotate(13.81deg);
+}
+
+
+
+
+
+
+/* Ivo Barbosa 
+
+position: absolute;
+width: 233.24px;
+height: 45.54px;
+left: 60.64px;
+top: 44px;
+
+font-family: 'Algerian';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 46px;
+display: flex;
+align-items: flex-end;
+
+color: #FFFFFF;
+
+border: 2px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support *
+transform: matrix(1, 0.02, -0.01, 1, 0, 0);
+
+
+/* Developer *
+
+position: absolute;
+width: 141px;
+height: 37px;
+left: 145px;
+top: 60px;
+
+font-family: 'Magneto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: flex-end;
+
+color: #FEFEFE;
+
+border: 2px solid #FC2F2F;
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Luffys-Straw-Hat-in-One-Piece 1 *
+
+position: absolute;
+width: 42.4px;
+height: 20.68px;
+left: 257.94px;
+top: 34px;
+
+background: url(Luffys-Straw-Hat-in-One-Piece.png);
+transform: rotate(13.81deg);
