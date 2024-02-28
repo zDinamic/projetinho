@@ -53,18 +53,17 @@ footer{
 .apresentacao__links__link {
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap: 10px;
     width: 378px;
     text-align: center;
     border-radius: 8px;
     font-size: 24px;
     font-weight: 600;
-    padding: 21.5px 0;
+    padding: 13px 0;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     color: black;
-    background-color:color-mix(in srgb, blue
-     12%, #ffffff 6%);
+    background-color:rgb(77, 70, 77);
     border: 2px solid #22D4FD
 }
 
@@ -83,7 +82,7 @@ footer{
 }
 
 .span {
-    background-color:#9aecff;
+    background-color:#000000;
     border: 10px double black
 }
 
