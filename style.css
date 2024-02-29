@@ -108,3 +108,9 @@ body {
     transform: rotate(13.63deg);
 }
 
+.linha__horizontal {
+    border: 0; /* Remove a borda padrão */
+    height: 1px; /* Define a altura da linha */
+    background-color: #000; /* Define a cor da linha */
+    margin: 150px 0; /* Define margem superior e inferior para espaçamento */
+}
