@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Workbench&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
 body {
     background-color:#25698E ;
 }
@@ -10,10 +11,10 @@ body {
     left: 60.64px;
     top: 34px;
     
-    font-family: 'Algerian';
+    font-family: "Libre Baskerville", serif;
     font-style: normal;
     font-weight: 100;
-    font-size: 35px;
+    font-size: 27px;
     line-height: 46px;
     display: flex;
     align-items: flex-end;
@@ -34,7 +35,7 @@ body {
     left: 160px;
     top: 47px;
     
-    font-family: 'Magneto';
+    font-family: "Kdam Thmor Pro", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -55,10 +56,10 @@ body {
     position: absolute;
     width: 42.4px;
     height: 20.68px;
-    left: 252.94px;
-    top: 29px;
+    left: 243.94px;
+    top: 30px;
 
     background: url(Luffys-Straw-Hat-in-One-Piece.png);
-    transform: rotate(13.81deg);
+    transform: rotate(22.81deg);
 }
 
