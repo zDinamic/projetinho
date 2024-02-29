@@ -63,3 +63,48 @@ body {
     transform: rotate(22.81deg);
 }
 
+.botoes__header{
+    display: flex;
+    align-items: flex-end;  
+    color: #FFFFFF;
+}
+
+.botoes__header__inicio {
+    position: absolute;
+    width: 72px;
+    height: 35px;
+    left: 988px;
+    top: 24px;
+
+    font-family: 'Milonga';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+}
+
+.botoes__header__projetos {
+    position: absolute;
+    width: 111px;
+    height: 35px;
+    left: 1101px;
+    top: 24px;
+
+    font-family: 'Milonga';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+}
+
+.navio__pequeno {
+    position: absolute;
+    width: 120.85px;
+    height: 154.47px;
+    left: 1293.97px;
+    top: -15.6px;
+
+    background: url(pngwing.png);
+    transform: rotate(13.63deg);
+}
+
