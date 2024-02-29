@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Workbench&display=swap');
 body {
-    background-color: #982323 ;
+    background-color:#25698E ;
 }
 
 .nome__ivo__barbosa {
@@ -8,18 +8,22 @@ body {
     width: 233.24px;
     height: 45.54px;
     left: 60.64px;
-    top: 44px;
+    top: 10px;
     
     font-family: 'Algerian';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 100;
     font-size: 35px;
     line-height: 46px;
     display: flex;
     align-items: flex-end;
     
     color: #FFFFFF;
-    
+    text-shadow: 
+    -2px -2px 0 black,  
+     2px -2px 0 black,
+    -2px  2px 0 black,
+     2px  2px 0 black
     
 }
 
@@ -27,29 +31,32 @@ body {
     position: absolute;
     width: 141px;
     height: 37px;
-    left: 145px;
-    top: 60px;
+    left: 160px;
+    top: 27px;
     
     font-family: 'Magneto';
     font-style: normal;
     font-weight: 700;
-    font-size: 25px;
+    font-size: 18px;
     line-height: 24px;
     display: flex;
     align-items: flex-end;
     
-    color:black;
-    
+    color:white;
+    text-shadow: 
+        -2px -2px 0 #ff0000,  
+         2px -2px 0 #ff0000,
+        -2px  2px 0 #ff0000,
+         2px  2px 0 #ff0000;
    
 }
-
 
 .chapeu__luffy {
     position: absolute;
     width: 42.4px;
     height: 20.68px;
     left: 252.94px;
-    top: 63px;
+    top: 29px;
 
     background: url(Luffys-Straw-Hat-in-One-Piece.png);
     transform: rotate(13.81deg);
